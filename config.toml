@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"  # Include trailing slash
+baseurl = "https://cabo.vercel.app/"  # Include trailing slash
 title = "Hstiro"
 theme = "newsroom"
 # author = "Weru"
